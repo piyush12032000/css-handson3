@@ -107,18 +107,20 @@ height:200px;
   position: fixed;
   background-color: greenyellow;
   z-index: 1;
+  box-shadow:9px 8px 2px purple; 
 }
 .fix1{
   display: inline-block;
   padding-left: 25px;
   padding-top: 15px;
+  text-align: center;
   }
   .fix2{
   display: inline-block;
   padding-left: 20px;
   font-size: 22PX;
   padding-left: 35PX;
-  
+  text-align: center;
   }
 
 
